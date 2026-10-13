@@ -1,24 +1,23 @@
-# HTML Practice
+# HTML & CSS Practice
 
-A collection of HTML practice projects built while learning web development fundamentals.
+Pages I built while learning HTML and CSS, from a first "hello world" page up to a YouTube-style video grid. Open any `.html` file in a browser. No setup is needed.
 
-## 📁 Contents
+## Pages
 
-- Basic HTML structure and semantic tags
-- Forms, tables, and lists
-- CSS styling and layouts
-- Mini projects and UI components
+| Page | What I practised |
+| --- | --- |
+| [`youtube/youtube.html`](youtube/youtube.html) | A YouTube-style home page: thumbnail grid, channel avatars and video titles, styled in a separate stylesheet |
+| [`basic/nike.html`](basic/nike.html) | Text styling, hover effects and transitions, recreating a product page's typography |
+| [`basic/button.html`](basic/button.html) | Styled buttons (subscribe/join) with hover states |
+| [`basic/grid.html`](basic/grid.html) | CSS Grid layouts |
+| [`basic/flexbox.html`](basic/flexbox.html) | Flexbox rows and columns |
+| [`basic/text.html`](basic/text.html) + `text.css` | My first page with an external stylesheet |
+| [`basic/website.html`](basic/website.html) | First HTML page: paragraphs, a button and links |
 
-## 🛠️ Tech Used
+## Tech
 
-- HTML5
-- CSS3
+HTML5 and CSS3 (Flexbox, Grid, transitions).
 
-## 🚀 How to View
+## Author
 
-Simply open any `.html` file in your browser — no setup needed.
-
-## 👨‍💻 Author
-
-**Hardik Rawat** — [@hardikrawat910-byte](https://github.com/hardikrawat910-byte)  
-B.E. Student | Mumbai
+**Hardik Rawat**, B.Tech Electronics & Telecommunication, SIES Graduate School of Technology · [GitHub](https://github.com/hardikrawat910-byte)
